@@ -1,0 +1,13 @@
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bin\Release\resources.pri
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bin\Release\AppxManifest.xml
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bin\Release\DeadPixels.build.appxrecipe
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\priconfig.xml.intermediate
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\layout.resfiles.intermediate
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\resources.resfiles.intermediate
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\pri.resfiles.intermediate
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\priconfig.xml
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\layout.resfiles
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\resources.resfiles
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\pri.resfiles
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\LanguageQualifiers.txt
+C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DeadPixels\DeadPixels\bld\Release\ProjectArchitectures.txt

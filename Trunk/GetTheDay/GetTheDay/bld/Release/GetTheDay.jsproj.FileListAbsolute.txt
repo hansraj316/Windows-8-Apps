@@ -1,0 +1,13 @@
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Release\resources.pri
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Release\AppxManifest.xml
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Release\GetTheDay.build.appxrecipe
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\priconfig.xml.intermediate
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\layout.resfiles.intermediate
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\resources.resfiles.intermediate
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\pri.resfiles.intermediate
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\priconfig.xml
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\layout.resfiles
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\resources.resfiles
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\pri.resfiles
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\LanguageQualifiers.txt
+C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Release\ProjectArchitectures.txt

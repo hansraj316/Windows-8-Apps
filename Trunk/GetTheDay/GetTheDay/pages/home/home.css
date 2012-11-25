@@ -1,0 +1,74 @@
+﻿.homepage section[role=main] {
+   
+	display: -ms-grid;
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 1fr 1fr;
+}
+.homepage section[role=main] p {
+	-ms-grid-column: 1;
+	-ms-grid-row: 1;
+	-ms-grid-column-align: center;
+	-ms-grid-row-align: center;
+    font-size: 300%;
+}
+.homepage section[role=main] #DatePicker {
+	height: 20%;
+	-ms-grid-column: 1;
+	-ms-grid-row: 2;
+	-ms-grid-column-align: center;
+}
+.win-datepicker-month, .win-datepicker-year, .win-datepicker-date 
+{
+	background-color: #fff;
+	border: 3px groove gray;
+}
+
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+       
+    }
+	.homepage section[role=main] p {
+	-ms-grid-column: 1;
+	-ms-grid-row: 1;
+	-ms-grid-column-align: center;
+	-ms-grid-row-align: center;
+    font-size: 200%;
+}
+
+    .homepage section[role=main] #DatePicker {
+	height: 20%;
+	-ms-grid-column: 1;
+	-ms-grid-row: 2;
+	-ms-grid-column-align: center;
+}
+.win-datepicker-month, .win-datepicker-year, .win-datepicker-date 
+{
+	background-color: #fff;
+	border: 3px groove gray;
+}
+}
+
+@media screen and (-ms-view-state: portrait) {
+    .homepage section[role=main] {
+        margin-left: 100px;
+    }
+	.homepage section[role=main] p {
+	-ms-grid-column: 1;
+	-ms-grid-row: 1;
+	-ms-grid-column-align: center;
+	-ms-grid-row-align: center;
+    font-size: 300%;
+}
+    .homepage section[role=main] #DatePicker {
+	height: 20%;
+	-ms-grid-column: 1;
+	-ms-grid-row: 2;
+	-ms-grid-column-align: center;
+}
+.win-datepicker-month, .win-datepicker-year, .win-datepicker-date 
+{
+	background-color: #fff;
+	border: 3px groove gray;
+}
+}

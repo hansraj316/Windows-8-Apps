@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HANS-PC</Machine>
+    <WindowsUser>hansraj</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>338262CB5CFD62DB16A99E150A58166C3051D809A6584854DBD7258D368A75E0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54140coders18.Daysyousurvived_1.0.0.0_neutral__765eq8y1f9174</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54140coders18.Daysyousurvived_765eq8y1f9174!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54140coders18.Daysyousurvived</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=B79B6798-2376-4E30-8CD6-29DFF91DBDCF</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-22T19:19:41.836</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-21T18:15:22.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2012-11-22T19:01:55.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-22T18:13:32.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-22T18:13:46.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-22T18:15:29.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-22T18:13:40.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-11-21T18:15:22.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-11-21T18:15:22.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2012-11-22T18:25:18.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2012-11-22T18:50:23.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-11-21T18:15:22.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\Documents\Visual Studio 2012\Projects\DaysYouSurvived\DaysYouSurvived\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-22T19:19:41.736</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

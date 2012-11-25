@@ -1,0 +1,9 @@
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Debug\resources.pri
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Debug\AppxManifest.xml
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Debug\GetTheDay.build.appxrecipe
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\priconfig.xml
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\layout.resfiles
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\resources.resfiles
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\pri.resfiles
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\LanguageQualifiers.txt
+c:\users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bld\Debug\ProjectArchitectures.txt

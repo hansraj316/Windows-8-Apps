@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HANS-PC</Machine>
+    <WindowsUser>hansraj</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>41AD6F36DC8D95E8D79E916ED9B72EF68D8EAFA017143D9FEEE330C030B47729</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c2d2bd6b-2ec1-4ba8-8a6d-b32c5774e4b1_1.0.0.0_neutral__f4bzhmssrvxne</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c2d2bd6b-2ec1-4ba8-8a6d-b32c5774e4b1_f4bzhmssrvxne!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c2d2bd6b-2ec1-4ba8-8a6d-b32c5774e4b1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hansraj</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T12:29:40.923</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-15T18:02:13.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2012-11-18T12:16:24.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T12:22:25.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T12:22:35.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T12:27:21.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T12:23:10.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-11-15T18:02:13.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-11-15T18:02:13.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2012-11-18T12:14:28.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2012-11-18T12:15:03.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-11-15T18:02:13.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hansraj\documents\visual studio 2012\Projects\GetTheDay\GetTheDay\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-18T12:29:40.050</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

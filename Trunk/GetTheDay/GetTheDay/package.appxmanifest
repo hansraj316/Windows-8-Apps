@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="54140coders18.GetTheDay" Version="1.0.0.0" Publisher="CN=B79B6798-2376-4E30-8CD6-29DFF91DBDCF" />
+  <Properties>
+    <DisplayName>Get The Day</DisplayName>
+    <PublisherDisplayName>coders18</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Get The Day" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="GetTheDay" ForegroundText="light" BackgroundColor="#B71000">
+        <DefaultTile ShowName="allLogos" ShortName="Get The day" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#B71000" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

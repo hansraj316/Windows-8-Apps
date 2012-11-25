@@ -1,0 +1,37 @@
+﻿.homepage section[role=main] {
+    margin-left: 120px;
+	display: -ms-grid;
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 1fr;
+}
+.homepage section[role=main] p{
+-ms-grid-row: 1;
+-ms-grid-column: 1;
+
+}
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+		display: -ms-grid;
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 1fr;
+    }
+	.homepage section[role=main] p{
+-ms-grid-row: 1;
+-ms-grid-column: 1;
+
+}
+}
+
+@media screen and (-ms-view-state: portrait) {
+    .homepage section[role=main] {
+        margin-left: 100px;	display: -ms-grid;
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 1fr;
+    }
+	.homepage section[role=main] p{
+-ms-grid-row: 1;
+-ms-grid-column: 1;
+
+}
+}

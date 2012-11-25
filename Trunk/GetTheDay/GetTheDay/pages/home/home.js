@@ -2,6 +2,7 @@
     "use strict";
     var datePicker;
     var DatePicker;
+    var sample;
     var DaysOfWeek = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
     function GetTheDay(e) {
         var setDate = document.getElementById("SetDate");
